@@ -34,7 +34,7 @@ The transformation resulted in a clean, multi-dimensional dataset and a visual d
 
 ## 📊  Interact with the dashboard
 
-*   **[Download the file from here](Sentiment.xlxs)**
+*   **[Download the file from here](Sentiment.xlsx)**
 
   
 ## Limitations
