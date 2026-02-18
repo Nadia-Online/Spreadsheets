@@ -32,6 +32,11 @@ The transformation resulted in a clean, multi-dimensional dataset and a visual d
 - **Platform Engagement**: Total interactions across all platforms reached **47,148**, with Instagram seeing the highest engagement (**17,464**) compared to Twitter (**15,168**) and Facebook (**14,516**).
 - **Statistical Insights**: The R² analysis revealed that sentiment is a poor predictor of interactions (**R² = 0.0878**) and that the time of day has almost no correlation with sentiment (**R² = 0.000085**). This suggests that engagement in this dataset is driven by factors other than just emotional tone or timing.
 
+## 📊  Interact with the dashboard
+
+*   **[Download the file from here](Sentiment.xlxs)**
+
+  
 ## Limitations
 
 Users of this database should be aware of the following constraints:
